@@ -1,0 +1,29 @@
+{
+  "name": "dose",
+  "version": "1.0.0",
+  "description": "Dose is a typescript decorator that allows injection in typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc"
+  },
+  "author": "Germain Bergeron",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "1.7.5"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermainBergeron/dose.git"
+  },
+  "keywords": [
+    "Typescript",
+    "injector",
+    "inject",
+    "dependency"
+  ],
+  "bugs": {
+    "url": "https://github.com/GermainBergeron/dose/issues"
+  },
+  "homepage": "https://github.com/GermainBergeron/dose#readme"
+}
